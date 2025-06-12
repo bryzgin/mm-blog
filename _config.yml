@@ -1,9 +1,15 @@
+# Main settings
 title: Моделирование месторождений
 email: k.bryzgin@yandex.ru
 description: >-
   Блог посвященный блочному моделированию месторождений твердых полезных ископаемых
 baseurl: /mm-blog/
 url: https://bryzgin.github.io/mm-blog/
+show_excerpts: false
+
+# Social links
+github_username: bryzgin
+rss: rss
 
 # Build settings
 theme: minima
