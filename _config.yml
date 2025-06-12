@@ -1,0 +1,11 @@
+title: Моделирование месторождений
+email: k.bryzgin@yandex.ru
+description: >-
+  Блог посвященный блочному моделированию месторождений твердых полезных ископаемых
+baseurl: ""
+url: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
