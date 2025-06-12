@@ -9,7 +9,7 @@ show_excerpts: false
 
 # Social links
 github_username: bryzgin
-rss: rss
+rss: RSS
 
 # Build settings
 theme: minima
