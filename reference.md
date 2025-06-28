@@ -9,7 +9,6 @@ permalink: /reference/
 * [Видеолекции по геологии месторождений полезных ископаемых, Еремин Николай Иосифович, МГУ им. М.В. Ломоносова](https://youtube.com/playlist?list=PLcsjsqLLSfNCTYew9cUR1NFMg9DZ1UWmW&si=yQHClKwTHj6PQYvk)
 * [Лекции по месторождениям полезных ископаемых, кафедра ГМиМР, Институт горного дела и геологии СФУ](https://www.geokniga.org/books?field_title=Лекции&field_author=&field-redaktor=&field_temat=All&field_labels=&field_izdat=Институт+горного+дела+геологии+и+геотехнологии+СФУ)
 
-
 ### База по традиционному подсчету запасов
 ---
 * [Оконтуривание рудных тел при подсчете запасов, Прокофьев Александр Петрович](https://www.geokniga.org/books/6338)
@@ -21,10 +20,10 @@ permalink: /reference/
 ---
 * [Курс по анализу данных и геостатистике, Майкл Джей Пирч, Техасский университет в Остине](https://youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&si=adBho2pT2L7VGnzL)
 
-
 ### База по моделированию
 ---
+* [Искусство и наука оценки запасов, Джеки Кумбс](https://www.geokniga.org/books/4898)
 * [Курс "Ресурсный геолог. Оценка минерализации. Базовый." на stepik, Андрей Вяльцев и Георгий Кирьяков](https://stepik.org/176352)
-
+* [Рабочая тетрадь по углубленному геологическому курсу ГГИС Micromine Origin](https://www.geokniga.org/books/36344)
 
 
