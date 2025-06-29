@@ -18,9 +18,9 @@ permalink: /reference/
 
 ### База по статистике / геостатистике
 ---
-* [Курс по анализу данных и геостатистике, Майкл Джей Пирч, Техасский университет в Остине](https://youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&si=adBho2pT2L7VGnzL)
 * [Введение в прикладную геостатистику, Эдвард Айзекс, Мохан Шривастава](https://www.geokniga.org/books/10619)
 * [Геостатистика для оценки природных ресурсов, Пьер Гувертс](https://www.geokniga.org/books/33488)
+* [Курс по анализу данных и геостатистике, Майкл Джей Пирч, Техасский университет в Остине](https://youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&si=adBho2pT2L7VGnzL)
 
 ### База по моделированию
 ---
